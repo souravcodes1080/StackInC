@@ -20,7 +20,7 @@ void main()
 	while(1)
 	{
 		system("cls");
-    	printf("\n1.Push\n2.Pop\n3.Peek\n4.Display\nEnter Choice: ");
+	    	printf("\n1.Push\n2.Pop\n3.Peek\n4.Display\nEnter Choice: ");
 		scanf("%d",&ch);
 		switch(ch)
 		{
